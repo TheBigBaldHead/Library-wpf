@@ -1,4 +1,4 @@
-# Library-wpf
+# Library WPF
 This is a Library Management project implemented with wpf C# format.\
 It has an admin and member menu and a page for registering new members.\
 Admin username and password is admin: admin.\

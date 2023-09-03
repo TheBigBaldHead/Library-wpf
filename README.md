@@ -5,7 +5,7 @@ Admin user and password is admin: admin.\
 Book and user information saves in a file and you can use it for later.\
 Login Page:
 <p align="center">
-   <br>
+   
   <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/login.png" title="Login Page">
 </p>
 

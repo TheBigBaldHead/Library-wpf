@@ -9,4 +9,6 @@ Book and user information saves in a file and you can use it for later.
 </p>
 <h3>
   Registering Page:</h3>
-
+<p align="center">
+  <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/register.png" title="Register Page">
+</p>

@@ -1,8 +1,8 @@
 # Library-wpf
-This is a Library Management project impplemented in wpf C# form.\
-It has a admin and member menu and a page for registering new users.\
+This is a Library Management project implemented with wpf C# format.\
+It has an admin and member menu and a page for registering new members.\
 Admin username and password is admin: admin.\
-Book and user information saves in a file and you can use it for later.
+Book and member information stores in a file and is usable for later.
 <h3>Login Page:</h3>
 <p align="center">
   <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/login.png" width=50% height=50% title="Login Page">

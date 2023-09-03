@@ -17,4 +17,35 @@ Book and user information saves in a file and you can use it for later.
 <p align="center">
   <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/admin_menu.png" width=50% height=50% title="Admin Menu">
 </p>
+<h3>
+  Member Menu:</h3>
+<p align="center">
+  <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/member_menu.png" width=50% height=50% title="Member Menu">
+</p>
+<h3>
+  Edit Profile:</h3>
+<p align="center">
+  <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/edit_profile.png" width=50% height=50% title="Edit Profile">
+</p>
+<h3>
+  Search Book:</h3>
+<p align="center">
+  <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/search_book.png" width=50% height=50% title="Search Book">
+</p>
+<h3>
+  Search Member:</h3>
+<p align="center">
+  <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/search_member.png" width=50% height=50% title="Search Member">
+</p>
+<h3>
+  Show Book Info:</h3>
+<p align="center">
+  <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/show_book_info.png" width=50% height=50% title="Show Book Info">
+</p>
+<h3>
+  Show Member Info:</h3>
+<p align="center">
+  <img src="https://github.com/TheBigBaldHead/Library-wpf/blob/main/pictures/show_member_info.png" width=50% height=50% title="Show Member Info">
+</p>
+
 
